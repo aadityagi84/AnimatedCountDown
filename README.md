@@ -1,0 +1,5 @@
+<h3>
+
+Dynamic Countdown Timer</h3>
+<h6>
+This project is a simple, dynamic countdown timer built using HTML, CSS, and pure JavaScript. The timer allows you to set a target date and time, displaying the remaining time in a clean and responsive design. It counts down in real-time, updating every second to show days, hours, minutes, and seconds left until the target.</h6>
